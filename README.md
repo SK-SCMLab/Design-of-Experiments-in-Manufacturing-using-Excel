@@ -23,6 +23,14 @@ This repository demonstrates key DoE concepts - applied to real-world manufactur
 | 4. Measures impact on variability | 4. Cannot measure variability impact | 
 | 5. Provides reliable information on interactions | 5. Provides risky information on interactions |
 | 6. Requires leadership support and investment | 6. Does not require leader |
-|----------------------------------------------|-----------------------------|
+
+### 🤡 Terms used while conducting experiment
+**Response**
+Dependent variables or outcomes of an experimental treatment that varies as changes are made to factors 
+*Eg*: Product strength, average cycle time, sales, response time
+
+**Factors**
+Independent or input variables that are changed during an experiment to validate their impact on the output. Can be qualitative and/or quantitative
+*Eg*: Resource temperature, Procedural charges, Price
 
 
