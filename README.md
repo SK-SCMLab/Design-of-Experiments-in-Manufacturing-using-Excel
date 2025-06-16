@@ -35,4 +35,53 @@ Dependent variables or outcomes of an experimental treatment that varies as chan
 Independent or input variables that are changed during an experiment to validate their impact on the output. Can be qualitative and/or quantitative
 *Eg*: Resource temperature, Procedural charges, Price
 
+**Levels**:
 
+- Settings or conditions of the factors that are treated during the experiment
+- Two levels recommended per factor
+      - Level 1 is normally coded as '-' and could represent status quo
+      - Level 2 is normally coded as '+' and could represent the change tested
+- The difference between level 1 and level 2 settings should be significant to detect impact
+
+**Interactions**:
+
+When the combination of two factors creates a result that is different from the result produced by the individual factors
+*Eg*: Rolling time and temperature
+
+**Treatment**:
+
+A unique set of factors at specific levels whose effect on the response variable is of interest
+*Eg*: Molding temperature at high setting and rolling time at low setting
+
+**Trail**:
+
+An experimental run for a special treatment
+
+**Experimental unit**:
+
+Quality of material to which one trail of a single treatment is applied to create a response
+
+**DoE error**:
+
+Error is variation in experimental units that have been exposed to the same treatment
+
+**Repetition & Replication**:
+
+Repetition and Replication provide an estimate of experimental error and help determine the statistical significance of the difference in readings
+
+|*Repetition* | *Replication*|
+|-------------|--------------|
+|1. During the treatment setup, several samples are run without changing the setting|1. The entire experiment is repeated with change in the setting of experimental conditions between trails|
+|2. This shows short-term variability|2. This shows long-term variability|
+
+**Randomization**:
+
+- Running the trail without any order
+- The use of randomization helps with:
+     - Noise factors that are completely random and uncontrollable
+     - Avoid time related changes, uncontrollable variables, and tool wear
+     - Eliminating bias in expert opinions
+
+**Blocking**
+
+- Setting 
