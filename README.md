@@ -15,7 +15,7 @@ This repository demonstrates key DoE concepts - applied to real-world manufactur
 - It provides mathematical model to predict and optimize the response or process output under recommended settings
 - It is preferred on One Factor At a Time (OFAT) experiments because it allows for accelerated learning and is less-time consulting
 
-|* DoE * | *Regression*|
+|*DoE* | *Regression*|
 |--------|-------------|
 | 1. Determines Cause & Effect | 1. Uncovers relationships |
 | 2. Tries bold (or) creative solutions | 2. Uses existing data |
