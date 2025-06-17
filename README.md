@@ -100,3 +100,11 @@ Repetition and Replication provide an estimate of experimental error and help de
 - A 'change in cycle time' creates a difference in the average part of the hardness
 - Interaction between temperature and time affects the average part hardness
 
+**Runs**:
+
+- The number of experiments in a DoE setting is known as "Runs" 
+
+                  Full factorial runs = Levels ^ Factors
+                  Half factorial runs = Levels ^ (Factors - 1)
+  
+- Fractional factorial experiments lose complete info on interactions
