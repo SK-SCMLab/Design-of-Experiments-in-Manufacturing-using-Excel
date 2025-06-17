@@ -92,3 +92,11 @@ Repetition and Replication provide an estimate of experimental error and help de
 - Contains all combinations of all levels of all factors
 - Ensure no possible treatment combinations get omitted
 - Is preferred over other designs
+
+**Analysis of the main effect**:
+
+- Main effect is the average response change going from one setting to the other
+- A 'change in temperature' at which the material is drawn creates a difference in the average part hardness
+- A 'change in cycle time' creates a difference in the average part of the hardness
+- Interaction between temperature and time affects the average part hardness
+
