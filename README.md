@@ -82,6 +82,13 @@ Repetition and Replication provide an estimate of experimental error and help de
      - Avoid time related changes, uncontrollable variables, and tool wear
      - Eliminating bias in expert opinions
 
-**Blocking**
+**Blocking**:
 
-- Setting 
+- Setting the DoE so that controllable noise factors are incorporated into the experiment or held at a constant level throughout
+- Controllable noise factors are factors that may impact the response but not a focus area of interest for the experiment
+
+**Full Factorial Experimental Design**:
+
+- Contains all combinations of all levels of all factors
+- Ensure no possible treatment combinations get omitted
+- Is preferred over other designs
