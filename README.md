@@ -108,3 +108,22 @@ Repetition and Replication provide an estimate of experimental error and help de
                   Half factorial runs = Levels ^ (Factors - 1)
   
 - Fractional factorial experiments lose complete info on interactions
+
+---
+
+## 🥸 Case study: Design of Experiments on the Steel manufacturing process
+
+### 🤩 Objectives
+- To optimize the surface finish (roughness in μm) of steel plates after cutting by analyzing the effects of three key factors
+
+
+---
+
+### 😮‍💨 Interpretation
+
+1. *Situation: From the shopfloor analysis, the Planning Manager discovered that the roughnesss of the steel plates is determined by three factors mainly:*
+
+                     => A - Cutting Speed
+                     => B - Blade angle
+                     => C - Lubrication
+*Now, the Planning Manager wants to run two replications for better study. As per the full factorial experiment, the design matrix gives 8 (2³) runs with different combinations*
