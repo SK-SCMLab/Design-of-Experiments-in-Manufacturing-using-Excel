@@ -147,6 +147,7 @@ DoE_Sample dataset
 - IF()
 - RAND()
 - RANDBETWEEN()
+- ANOVA 2-factor without replication
 
 ---
 
