@@ -121,9 +121,12 @@ Repetition and Replication provide an estimate of experimental error and help de
 
 ### 😮‍💨 Interpretation
 
-1. *Situation: From the shopfloor analysis, the Planning Manager discovered that the roughnesss of the steel plates is determined by three factors mainly:*
+1. *Situation: From the shopfloor analysis, the Planning Manager discovered that the roughness of the steel plates that are coming out of three cutting machines is determined by three factors mainly:*
 
-                     => A - Cutting Speed
-                     => B - Blade angle
-                     => C - Lubrication
-*Now, the Planning Manager wants to run two replications for better study. As per the full factorial experiment, the design matrix gives 8 (2³) runs with different combinations*
+                     => A - Cutting Speed: 150 m/min (-1) vs 250 m/min (+1)
+                     => B - Blade angle: 30ᵒ (-1) vs 45ᵒ (+1)
+                     => C - Lubrication: Dry (-1) vs Oil (+1)
+
+*Now, the Planning Manager wants to run two replications for better study considering only two factors. As per the full factorial experiment, the design matrix gives 4 (2²) runs with different combinations*
+
+
