@@ -129,4 +129,12 @@ Repetition and Replication provide an estimate of experimental error and help de
 
 *Now, the Planning Manager wants to run two replications for better study considering only two factors. As per the full factorial experiment, the design matrix gives 4 (2²) runs with different combinations*
 
+**Inference**: ANOVA Two-factor without replication || From the excel analysis
 
+               Rows (Machines)
+               F = 0.9512; p = 0.5234 (>0.05). The variability due to replication is not significant. Hence there is no need of replication in the test
+
+               Columns (Speed vs. Angle)
+               F = 0.105.32; P << 0.05. The treatments have a highly significant effect on the result
+
+**Conclusion**: As implied by the Planning Manager before hand, the difference in Speed and Angle is statistically significant which affects the roughness of the steel output
