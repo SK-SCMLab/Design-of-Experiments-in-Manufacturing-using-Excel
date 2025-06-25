@@ -116,7 +116,6 @@ Repetition and Replication provide an estimate of experimental error and help de
 ### 🤩 Objectives
 - To optimize the surface finish (roughness in μm) of steel plates after cutting by analyzing the effects of three key factors
 
-
 ---
 
 ### 😮‍💨 Interpretation
@@ -138,3 +137,25 @@ Repetition and Replication provide an estimate of experimental error and help de
                F = 0.105.32; P << 0.05. The treatments have a highly significant effect on the result
 
 **Conclusion**: As implied by the Planning Manager before hand, the difference in Speed and Angle is statistically significant which affects the roughness of the steel output
+
+---
+
+### 🥲 Repository structure
+DoE_Sample dataset
+
+---
+
+### 🥹 Excel Functionalities used
+- IF()
+- RAND()
+- RANDBETWEEN()
+
+---
+
+### 😇 Requirements
+- Microsoft Excel 2016 or later
+- Six Sigma manufacturing basics
+
+---
+
+*Data is the new oil. - Clive Humby*
