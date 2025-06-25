@@ -116,8 +116,6 @@ Repetition and Replication provide an estimate of experimental error and help de
 ### 🤩 Objectives
 - To optimize the surface finish (roughness in μm) of steel plates after cutting by analyzing the effects of three key factors
 
----
-
 ### 😮‍💨 Interpretation
 
 1. *Situation: From the shopfloor analysis, the Planning Manager discovered that the roughness of the steel plates that are coming out of three cutting machines is determined by three factors mainly:*
